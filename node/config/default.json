@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "allen_secret",
+    "pageAccessToken": "allen_access_token",
+    "validationToken": "allen_validation_token",
+    "serverURL": "alchex.herokuapp.com"
 }
